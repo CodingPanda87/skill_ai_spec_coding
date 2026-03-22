@@ -1,6 +1,6 @@
 # Skill Quick Start
 
-Copy `skill/ai-spec-coding-framework/` into your Copilot skills folder.
+Copy `ai-spec-coding-framework/` into your Copilot skills folder.
 
 Keep the folder name `ai-spec-coding-framework`, and keep `SKILL.md` at the top of that folder.
 
