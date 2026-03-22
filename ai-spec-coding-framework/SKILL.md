@@ -1,6 +1,6 @@
 ---
 name: ai-spec-coding-framework
-description: Bootstrap or adapt the AI Spec Coding framework with three prompts: project name, programming language and tech stack, then project background and keywords.
+description: "Bootstrap or adapt the AI Spec Coding framework with three prompts: project name, programming language and tech stack, then project background and keywords."
 ---
 
 # AI Spec Coding Framework
